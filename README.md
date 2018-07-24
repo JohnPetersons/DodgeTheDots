@@ -1,1 +1,1 @@
-This is a simple android game I amde in android studio.  The point is to dodge the incoming dots for as long as possible.
+This is a simple android game I made in android studio.  The point is to dodge the incoming dots for as long as possible.
